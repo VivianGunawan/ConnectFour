@@ -2,8 +2,6 @@
 
 🗓 Fall 2017
 
----
-
 ## Project Description
 
 A simple implementation of Connect Four written using Object-Oriented Principles in Python that supports PvP and 2 different PvE modes. 
@@ -11,8 +9,6 @@ A simple implementation of Connect Four written using Object-Oriented Principles
 The first PvE mode selects a random unfilled column on the board.
 
 The second PvE mode uses *lookaheads* to select the most ideal column on the board.
-
----
 
 ## How to run
 
