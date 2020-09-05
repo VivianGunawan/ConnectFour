@@ -26,5 +26,5 @@ In Python Interpreter
 # PvE Mode (Lookahead select)
 # example below tiebreaks by selecting the left column, 
 # and have a single lookahead step.
->>> game.connect_four(player.Player('X'),ai. AIPlayer('O', 'LEFT', 1))
+>>> game.connect_four(player.Player('X'),ai.AIPlayer('O', 'LEFT', 1))
 ```
